@@ -1,0 +1,44 @@
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\bin\Debug\FileSender.exe.config
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\bin\Debug\FileSender.exe
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\bin\Debug\FileSender.pdb
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\FileSender.csprojResolveAssemblyReference.cache
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\MainWindow.baml
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\MainWindow.g.cs
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\App.g.cs
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\FileSender_MarkupCompile.cache
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\FileSender.g.resources
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\FileSender.Properties.Resources.resources
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\FileSender.csproj.GenerateResource.Cache
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\FileSender.exe
+C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\FileSender\FileSender\obj\Debug\FileSender.pdb
+D:\Елизавета\Documents\СЕТИ\КУРСАЧ\FileSender — копия\FileSender\bin\Debug\FileSender.exe.config
+D:\Елизавета\Documents\СЕТИ\КУРСАЧ\FileSender — копия\FileSender\obj\Debug\FileSender.exe
+D:\Елизавета\Documents\СЕТИ\КУРСАЧ\FileSender — копия\FileSender\obj\Debug\FileSender.pdb
+D:\Елизавета\Documents\СЕТИ\КУРСАЧ\FileSender — копия — копия\FileSender\bin\Debug\FileSender.exe.config
+D:\Елизавета\Documents\СЕТИ\КУРСАЧ\FileSender — копия — копия\FileSender\obj\Debug\FileSender.exe
+D:\Елизавета\Documents\СЕТИ\КУРСАЧ\FileSender — копия — копия\FileSender\obj\Debug\FileSender.pdb
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\bin\Debug\FileSender.exe.config
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.exe
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.pdb
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\bin\Debug\FileSender.exe
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\bin\Debug\FileSender.pdb
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.csprojResolveAssemblyReference.cache
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\MainWindow.baml
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\MainWindow.g.cs
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\App.g.cs
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender_MarkupCompile.cache
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.g.resources
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.Properties.Resources.resources
+D:\Елизавета\Documents\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.csproj.GenerateResource.Cache
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\bin\Debug\FileSender.exe.config
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.exe
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.pdb
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\bin\Debug\FileSender.exe
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\bin\Debug\FileSender.pdb
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\MainWindow.baml
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\MainWindow.g.cs
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\App.g.cs
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender_MarkupCompile.cache
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.g.resources
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.Properties.Resources.resources
+D:\Елизавета\Documents\6 сем\СЕТИ\KURS FINAL\FileSender_FINAL\FileSender\obj\Debug\FileSender.csproj.GenerateResource.Cache
